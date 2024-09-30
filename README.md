@@ -1,4 +1,4 @@
-# CODESOF01
+# CODSOFT01
 print("Simple Calculator")
 print("1. Add")
 print("2. Subtract")
